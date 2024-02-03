@@ -1,4 +1,3 @@
-# news_app2
 📰 Advanced-News-App-In-Flutter-With-APi
 🌐 Learn how to fetch real-time news data from the best news API, ensuring your app stays up-to-date and dynamic! 📊💡App Screenshot
 
