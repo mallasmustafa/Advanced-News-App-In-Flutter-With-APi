@@ -1,16 +1,10 @@
 # news_app2
+📰 Advanced-News-App-In-Flutter-With-APi
+🌐 Learn how to fetch real-time news data from the best news API, ensuring your app stays up-to-date and dynamic! 📊💡App Screenshot
 
-A new Flutter project.
+🚀 Harness the power of Flutter GetX and Provider for state management, creating a smooth and responsive user experience! 🔄🌈
 
-## Getting Started
+Tech Stack
+Client: Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Server: News.org api
